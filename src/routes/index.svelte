@@ -46,6 +46,7 @@
     to build a graphic from
     <a href="https://github.com/jsoma/example-svelte-viz-page/blob/main/src/routes/_data/points.csv">points.csv</a>
   </p>
+  <p>And here is me testing a change.</p>
 
   <div class="chart-container">
     <LayerCake padding={{ right: 10, bottom: 20, left: 25 }} x={"year"} y={"amount"} yDomain={[0, null]} data={points}>
